@@ -8,27 +8,27 @@
       "title": [
         {
           "type": "heading1",
-          "text": "Reintermediate magnetic eyeballs",
+          "text": "Revolutionize customized technologies",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Mollit amet Lorem fugiat esse enim laborum. Excepteur ad incididunt sint occaecat nisi aliqua tempor reprehenderit. Tempor mollit est deserunt id et anim.",
+          "text": "Aliqua nulla esse tempor sint. Proident aute in id cillum adipisicing. Laborum velit quis excepteur mollit consequat aliqua aute non velit commodo tempor.",
           "spans": []
         }
       ],
       "primaryLink": {
         "link_type": "Web",
-        "url": "http://twitter.com"
-      },
-      "primaryLinkLabel": "evolve synergistic portals",
-      "secondaryLink": {
-        "link_type": "Web",
         "url": "http://google.com"
       },
-      "secondaryLinkLabel": "reinvent collaborative experiences"
+      "primaryLinkLabel": "generate efficient ROI",
+      "secondaryLink": {
+        "link_type": "Web",
+        "url": "https://slicemachine.dev"
+      },
+      "secondaryLinkLabel": "e-enable compelling relationships"
     }
   },
   {
@@ -40,20 +40,20 @@
       "title": [
         {
           "type": "heading3",
-          "text": "Envisioneer web-enabled models",
+          "text": "Matrix cross-media platforms",
           "spans": []
         }
       ],
       "primaryLink": {
         "link_type": "Web",
-        "url": "https://slicemachine.dev"
+        "url": "https://prismic.io"
       },
-      "primaryLinkLabel": "monetize e-business synergies",
+      "primaryLinkLabel": "revolutionize seamless portals",
       "secondaryLink": {
         "link_type": "Web",
         "url": "http://google.com"
       },
-      "secondaryLinkLabel": "empower vertical e-business"
+      "secondaryLinkLabel": "revolutionize rich metrics"
     }
   },
   {
@@ -65,14 +65,14 @@
       "title": [
         {
           "type": "heading1",
-          "text": "Mesh enterprise deliverables",
+          "text": "Syndicate dot-com models",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Dolore culpa cupidatat cillum tempor amet. Et ea sunt Lorem deserunt culpa incididunt commodo et irure anim elit. Reprehenderit enim ad pariatur deserunt esse ea anim laboris ut voluptate sunt nostrud.",
+          "text": "Non mollit Lorem veniam irure. Lorem aliquip non eu aliquip sint et officia esse ut duis fugiat elit excepteur non officia. Deserunt ea nostrud et aliquip do.",
           "spans": []
         }
       ],
@@ -80,12 +80,12 @@
         "link_type": "Web",
         "url": "http://twitter.com"
       },
-      "primaryLinkLabel": "engineer B2C supply-chains",
+      "primaryLinkLabel": "synthesize virtual portals",
       "secondaryLink": {
         "link_type": "Web",
-        "url": "https://prismic.io"
+        "url": "http://google.com"
       },
-      "secondaryLinkLabel": "architect dot-com vortals",
+      "secondaryLinkLabel": "streamline 24/7 users",
       "image": {
         "dimensions": {
           "width": 900,
@@ -93,7 +93,7 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=900&h=500&fit=crop"
+        "url": "https://images.unsplash.com/photo-1589321599763-d66926c29613?w=900&h=500&fit=crop"
       }
     }
   }
